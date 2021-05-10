@@ -14,3 +14,5 @@ technology used
 **To run application**
 use mvn command- 
 ``` mvn package```
+
+Core of the application is under tree/main/src/test/java/com/mycompany/app ie here- https://github.com/ramapaudyal/my-test-app2/tree/main/src/test/java/com/mycompany/app

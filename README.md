@@ -1,4 +1,4 @@
-**test-app** is an UI test suite.
+**my-test-app2** is an UI test suite for http://automationpractice.com/index.php 
 
 technology used
 * java
@@ -9,6 +9,8 @@ technology used
 
 **Prerequisite**
 * >=JDK8 installed
+* maven
 
 **To run application**
-```mvn package```
+use mvn command- 
+``` mvn package```

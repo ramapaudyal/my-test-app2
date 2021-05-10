@@ -1,0 +1,22 @@
+-------------------------------------------------------------------------------
+Test set: com.mycompany.app.Utilities.TestRunner
+-------------------------------------------------------------------------------
+Tests run: 12, Failures: 0, Errors: 2, Skipped: 5, Time elapsed: 10.712 s <<< FAILURE! - in com.mycompany.app.Utilities.TestRunner
+And add it to the cart(Scenario: test add to cart functionality)  Time elapsed: 0.007 s  <<< ERROR!
+org.openqa.selenium.ElementNotInteractableException: 
+Element <div class="cart_block block exclusive"> could not be scrolled into view
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LONLAP09834MAC', ip: 'fd44:5a17:3065:0:50cd:210e:8fe8:791f%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '14.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 87.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20210318103112, moz:geckodriverVersion: 0.26.0, moz:headless: false, moz:processID: 80322, moz:profile: /var/folders/fv/0szh27t93g3..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: MAC, platformName: MAC, platformVersion: 19.6.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: e0245c75-01cd-2a4b-9663-b180aba7a08e
+
+Scenario: test add to cart functionality  Time elapsed: 0.007 s  <<< ERROR!
+org.openqa.selenium.ElementNotInteractableException: 
+Element <div class="cart_block block exclusive"> could not be scrolled into view
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LONLAP09834MAC', ip: 'fd44:5a17:3065:0:50cd:210e:8fe8:791f%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '14.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 87.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20210318103112, moz:geckodriverVersion: 0.26.0, moz:headless: false, moz:processID: 80322, moz:profile: /var/folders/fv/0szh27t93g3..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: MAC, platformName: MAC, platformVersion: 19.6.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: e0245c75-01cd-2a4b-9663-b180aba7a08e
+

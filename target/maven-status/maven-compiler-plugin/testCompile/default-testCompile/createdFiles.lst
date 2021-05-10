@@ -1,0 +1,5 @@
+com/mycompany/app/PageObjects/PageObjects.class
+com/mycompany/app/StepDefinitions/homepage.class
+com/mycompany/app/AppTest.class
+com/mycompany/app/StepDefinitions/Hooks.class
+com/mycompany/app/Utilities/TestRunner.class

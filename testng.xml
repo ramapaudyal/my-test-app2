@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"><suite name="All Test Suite">
+	<test verbose="2" preserve-order="true" name="/Users/ramas/my-test-app">
+		<classes><class name="com.mycompany.app.AppTest">
+			<methods><include name="shouldAnswerWithTrue"/></methods>
+				</class>
+			<class name="com.mycompany.app.StepDefinitions.homepage">
+				<methods>
+					<include name="user_goes_to_the_site"/>
+					<include name="check_if_are_there_in_a_cart"/>
+					<include name="go_back_to_the_homepage"/>
+					<include name="select_a_dress"/>
+					<include name="wait_to_be_visible"/>
+					<include name="add_it_to_the_cart"/>
+					<include name="check_if_same_has_been_added_to_the_cart"/>
+					<include name="click_on_checkout"/>
+					<include name="check_user_is_on_first_phase"/>
+					<include name="click_on_proceed_to_checkout_button"/>
+					<include name="check_user_is_on_second_phase"/>
+				</methods>
+			</class>
+		</classes>
+	</test>
+</suite>
